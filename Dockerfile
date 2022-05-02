@@ -1,12 +1,21 @@
-# Tags: latest, 3.2.1-debian-10-r87, 3.2.1, 3-debian-10, 3
+# Tags: latest, 3.2.1-debian-10-r90, 3.2.1, 3-debian-10, 3
 FROM bitnami/spark:latest
-FROM bitnami/spark:3.2.1-debian-10-r87
+FROM bitnami/spark:3.2.1-debian-10-r90
 FROM bitnami/spark:3.2.1
 FROM bitnami/spark:3-debian-10
 FROM bitnami/spark:3
 
 # Tags: _
 FROM bitnami/spark:_
+
+# Tags: 3.2.1-debian-10-r89
+FROM bitnami/spark:3.2.1-debian-10-r89
+
+# Tags: 3.2.1-debian-10-r88
+FROM bitnami/spark:3.2.1-debian-10-r88
+
+# Tags: 3.2.1-debian-10-r87
+FROM bitnami/spark:3.2.1-debian-10-r87
 
 # Tags: 3.2.1-debian-10-r86
 FROM bitnami/spark:3.2.1-debian-10-r86
@@ -85,15 +94,3 @@ FROM bitnami/spark:3.2.1-debian-10-r62
 
 # Tags: 3.2.1-debian-10-r61
 FROM bitnami/spark:3.2.1-debian-10-r61
-
-# Tags: 3.2.1-debian-10-r60
-FROM bitnami/spark:3.2.1-debian-10-r60
-
-# Tags: 3.2.1-debian-10-r59
-FROM bitnami/spark:3.2.1-debian-10-r59
-
-# Tags: 3.2.1-debian-10-r58
-FROM bitnami/spark:3.2.1-debian-10-r58
-
-# Tags: 3.2.1-debian-10-r57
-FROM bitnami/spark:3.2.1-debian-10-r57
