@@ -1,12 +1,42 @@
-# Tags: latest, 3.2.1-debian-10-r91, 3.2.1, 3-debian-10, 3
+# Tags: latest, 3.2.1-debian-10-r101, 3.2.1, 3-debian-10, 3
 FROM bitnami/spark:latest
-FROM bitnami/spark:3.2.1-debian-10-r91
+FROM bitnami/spark:3.2.1-debian-10-r101
 FROM bitnami/spark:3.2.1
 FROM bitnami/spark:3-debian-10
 FROM bitnami/spark:3
 
 # Tags: _
 FROM bitnami/spark:_
+
+# Tags: 3.2.1-debian-10-r100
+FROM bitnami/spark:3.2.1-debian-10-r100
+
+# Tags: 3.2.1-debian-10-r99
+FROM bitnami/spark:3.2.1-debian-10-r99
+
+# Tags: 3.2.1-debian-10-r98
+FROM bitnami/spark:3.2.1-debian-10-r98
+
+# Tags: 3.2.1-debian-10-r97
+FROM bitnami/spark:3.2.1-debian-10-r97
+
+# Tags: 3.2.1-debian-10-r96
+FROM bitnami/spark:3.2.1-debian-10-r96
+
+# Tags: 3.2.1-debian-10-r95
+FROM bitnami/spark:3.2.1-debian-10-r95
+
+# Tags: 3.2.1-debian-10-r94
+FROM bitnami/spark:3.2.1-debian-10-r94
+
+# Tags: 3.2.1-debian-10-r93
+FROM bitnami/spark:3.2.1-debian-10-r93
+
+# Tags: 3.2.1-debian-10-r92
+FROM bitnami/spark:3.2.1-debian-10-r92
+
+# Tags: 3.2.1-debian-10-r91
+FROM bitnami/spark:3.2.1-debian-10-r91
 
 # Tags: 3.2.1-debian-10-r90
 FROM bitnami/spark:3.2.1-debian-10-r90
@@ -61,36 +91,3 @@ FROM bitnami/spark:3.2.1-debian-10-r74
 
 # Tags: 3.2.1-debian-10-r73
 FROM bitnami/spark:3.2.1-debian-10-r73
-
-# Tags: 3.2.1-debian-10-r72
-FROM bitnami/spark:3.2.1-debian-10-r72
-
-# Tags: 3.2.1-debian-10-r71
-FROM bitnami/spark:3.2.1-debian-10-r71
-
-# Tags: 3.2.1-debian-10-r70
-FROM bitnami/spark:3.2.1-debian-10-r70
-
-# Tags: 3.2.1-debian-10-r69
-FROM bitnami/spark:3.2.1-debian-10-r69
-
-# Tags: 3.2.1-debian-10-r68
-FROM bitnami/spark:3.2.1-debian-10-r68
-
-# Tags: 3.2.1-debian-10-r67
-FROM bitnami/spark:3.2.1-debian-10-r67
-
-# Tags: 3.2.1-debian-10-r66
-FROM bitnami/spark:3.2.1-debian-10-r66
-
-# Tags: 3.2.1-debian-10-r65
-FROM bitnami/spark:3.2.1-debian-10-r65
-
-# Tags: 3.2.1-debian-10-r64
-FROM bitnami/spark:3.2.1-debian-10-r64
-
-# Tags: 3.2.1-debian-10-r63
-FROM bitnami/spark:3.2.1-debian-10-r63
-
-# Tags: 3.2.1-debian-10-r62
-FROM bitnami/spark:3.2.1-debian-10-r62
